@@ -6,6 +6,11 @@ Udacity Data Analysis Nanodegree project on data wrangling
 - Query the twitter API via the tweepy library and save the json data to a file.
 - Read csv files with pandas.
 - Read a json lines file with pandas.
+- Assesing data with methods such as head, sample, tail, describe, info, value_counts, duplicated, isull.
+- Copy data frames.
+- Solving issues with methods such as replace, drop, melt, merge, lower.
+- Save the data frame to a csv file.
+- Plotting a Scatter plot, a Box plot and a Pie chart.
 
 ## Introduction
 This project is part of the Udacity’s Data Analyst Nanodegree. The goal of the project is to apply all our knowledge in data wrangling. All the data is from the twitter account called WeRateDogs that gives rates to people’s dogs.  The project steps include:
