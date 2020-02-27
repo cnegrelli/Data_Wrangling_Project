@@ -10,7 +10,7 @@ Udacity Data Analysis Nanodegree project on data wrangling
 - Copy data frames.
 - Solving issues with methods such as replace, drop, melt, merge, lower.
 - Save the data frame to a csv file.
-- Plotting a Scatter plot, a Box plot and a Pie chart.
+- Plot a Scatter plot, a Box plot and a Pie chart.
 
 ## Introduction
 This project is part of the Udacity’s Data Analyst Nanodegree. The goal of the project is to apply all our knowledge in data wrangling. All the data is from the twitter account called WeRateDogs that gives rates to people’s dogs.  The project steps include:
